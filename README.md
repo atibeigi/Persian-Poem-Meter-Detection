@@ -12,7 +12,7 @@ This repository contains the implementation of a Natural Language Processing (NL
 The goal of this project is to analyze Persian hemistichs (مصراع‌ها) and determine their correct poetic meters. Two main paradigms are explored and implemented:
 1. **Text Classification Approach:** Using pre-trained transformer models (**XLM-RoBERTa**) to classify verses directly into their corresponding meter classes.
 2. **Sequence-to-Sequence (Seq2Seq) Approach:** Treating meter detection as a sequence translation problem using recurrent architectures and encoder-decoder transformers.
-
+> **Note:** Due to file size limits , only a small subset of the dataset (300 samples for training, 50 for validation, and 50 for testing) has been included in this repository.
 ---
 
 ## 📂 Repository Structure
