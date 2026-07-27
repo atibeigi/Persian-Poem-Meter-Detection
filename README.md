@@ -3,7 +3,7 @@ NLP assignment focused on Persian poem meter detection using XLM-RoBERTa, Bi-GRU
 # Persian Poem Meter Detection (وزن عروضی شعر فارسی)
 
 This repository contains the implementation of a Natural Language Processing (NLP) assignment focusing on detecting and predicting the **metrical patterns (وزن عروضی)** of Persian poetry verses.
-![Uploading image.png…]()
+                                                       ![Persian Poem Scansion Example](Image.png)
 
 
 ---
